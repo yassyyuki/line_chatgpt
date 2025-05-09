@@ -1,0 +1,7 @@
+.DS_Store
+gpt/
+line-gpt-credential.json
+try.ipynb
+.env
+app/main_.py
+app/__pycache__/
